@@ -3,7 +3,7 @@
 </div>
 
 <div align="left">
-  <p><span style="display: inline-block; width: 120px;">Reach me at </span> <a href="https://www.linkedin.com/in/gabrielreisnascimento">LinkedIn</a></p>
+  <p><span style="display: inline-block; width: 120px;">Reach me at </span> <a href="https://www.linkedin.com/in/gabrielreisnascimento" target="_blank">LinkedIn</a></p>
 </div>
 
 <div align="center">
