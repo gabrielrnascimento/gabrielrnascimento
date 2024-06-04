@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 <h3>Programming Languages
   
-  [![languages](https://skillicons.dev/icons?i=ts,js,py,java,cs)](https://skillicons.dev)
+  [![languages](https://skillicons.dev/icons?i=ts,js,py,java)](https://skillicons.dev)
 </h3>
 
 <h3>Back-end
@@ -43,15 +43,19 @@ Here are some ideas to get you started:
   [![front-end](https://skillicons.dev/icons?i=react,nextjs,tailwind,sass,styledcomponents,webpack,cypress,html,css,pug,)](https://skillicons.dev)
 </h3>
 
+<h3>Databases and Tools
+  
+  [![databases](https://skillicons.dev/icons?i=elasticsearch,postgres,mongodb,mysql,)](https://skillicons.dev)
+  
+  [![tools](https://skillicons.dev/icons?i=jest,rabbitmq,kafka,redis,graphql,grafana)](https://skillicons.dev)
+  
+  [![environments](https://skillicons.dev/icons?i=ubuntu,apple)](https://skillicons.dev)
+  
+  [![external](https://skillicons.dev/icons?i=bitbucket,github,figma,githubactions)](https://skillicons.dev)
+</h3>
+
 <h3>Cloud
   
   [![cloud](https://skillicons.dev/icons?i=aws,gcp,)](https://skillicons.dev)
 </h3>
 
-<h3>Databases and Tools
-  
-  [![databases](https://skillicons.dev/icons?i=elasticsearch,postgres,mongodb,mysql,)](https://skillicons.dev)
-  [![tools](https://skillicons.dev/icons?i=jest,rabbitmq,kafka,redis,graphql,grafana)](https://skillicons.dev)
-  [![environments](https://skillicons.dev/icons?i=ubuntu,apple)](https://skillicons.dev)
-  [![external](https://skillicons.dev/icons?i=bitbucket,github,figma,githubactions)](https://skillicons.dev)
-</h3>
