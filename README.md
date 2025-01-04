@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 <h3>Programming Languages
   
-  [![languages](https://skillicons.dev/icons?i=ts,js,py,java)](https://skillicons.dev)
+  [![languages](https://skillicons.dev/icons?i=ts,js,py,java,kotlin,swift)](https://skillicons.dev)
 </h3>
 
 <h3>Back-end
